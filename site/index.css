@@ -1,0 +1,16 @@
+body {
+    margin-left: 5em;
+    margin-top: 3em;
+  }
+  
+  table {
+    border: 1px solid gray;
+  }
+  
+  td {
+      padding: .5em;
+  }
+  
+  .activeRow {
+    background-color: yellow;
+  }
